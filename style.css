@@ -1,0 +1,28 @@
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-right: 105px;
+}
+.btn {
+padding: 10px 20px;
+font-size: 18px;
+margin: 0 10px;
+border-radius: 5px;
+}
+.btn-success {
+background-color: #28a745;
+border-color: #28a745;
+}
+.btn-success:hover {
+background-color: #218838;
+border-color: #1e7e34;
+}
+.btn-danger {
+background-color: #dc3545;
+border-color: #dc3545;
+}
+.btn-danger:hover {
+background-color: #c82333;
+border-color: #bd2130;
+}
